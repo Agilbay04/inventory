@@ -96,7 +96,7 @@
             <div class="modal-content">
                 <form action="edit_produk" method="post">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">Tambah Data</h5>
+                        <h5 class="modal-title" id="exampleModalLabel">Edit Data</h5>
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                     </div>
                     <div class="modal-body">
