@@ -2,14 +2,5 @@
 
 ## CRUD Data Produk
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
-
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
-
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
-
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
+### 1. Tampilan List Data Produk
+![image](https://user-images.githubusercontent.com/54614718/182585606-6d4fb6a8-53a8-4d91-8895-a5a61bdea8e4.png)
